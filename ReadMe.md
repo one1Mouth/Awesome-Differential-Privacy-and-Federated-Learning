@@ -6,3 +6,4 @@
 - 绿底视频是搬运/录制的其他大佬的汇报，没有资料
 - 蓝底/紫粉是孙导的视频，孙导相关笔记请访问：https://github.com/Chenxing-Xuan/A-series-of-popular-science-in-federated-learning
 
+- 橙底视频请查看视频简介获取相关资料
